@@ -1,5 +1,6 @@
 # C++ Hands On - Bank Management System
 ## Project Structure
+```
 BankProject/
 ├── CMakeLists.txt
 ├── src/
@@ -9,6 +10,7 @@ BankProject/
 ├── tests/
 │   ├── CMakeLists.txt
 │   └── test_BankAccount.cpp
+```
 
 ## Concepts
 * OOP in C++
